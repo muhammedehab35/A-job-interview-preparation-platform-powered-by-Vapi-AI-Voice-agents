@@ -69,7 +69,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/DEVANG-2021/AI_Mock_Interview.git
+git clone https://github.com/muhammedehab35/A-job-interview-preparation-platform-powered-by-Vapi-AI-Voice-agents.git
 cd ai_mock_interviews
 ```
 
